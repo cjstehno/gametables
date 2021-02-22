@@ -13,3 +13,5 @@ bin           = @["gametables"]
 # Dependencies
 
 requires "nim >= 1.2.6"
+requires "polydice >= 0.2.0"
+requires "docopt >= 0.6.7"
